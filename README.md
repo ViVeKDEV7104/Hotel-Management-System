@@ -46,19 +46,6 @@ All functionalities have been implemented as per project requirements, including
 
 ---
 
-
-
----
-
-## 📄 Project Documentation 
-Detailed documentation provided covering:
-- Project setup
-- Code walkthrough
-- File structure
-- Sample I/O data
-
----
-
 ---
 
 ## 🔬 Testing & Validation
@@ -70,12 +57,4 @@ Detailed documentation provided covering:
 
 ---
 
-
-
-## 📤 Submission
-
-🔗 **GitHub Repo Link**: [Paste your link here]  
-🕒 Submitted on: [Enter submission date]
-
----
 
